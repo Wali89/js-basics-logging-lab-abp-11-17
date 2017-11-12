@@ -6,4 +6,4 @@ console.log(driver);
 
 const info = 'is the driver variable name';
 
-console.log(driver + info);
+console.log(driver,info);
